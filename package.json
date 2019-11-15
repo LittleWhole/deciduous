@@ -1,0 +1,22 @@
+{
+    "name": "deciduous",
+    "version": "0.0.0",
+    "description": "Deciduous is a very large library of JS functions/methods.",
+    "main": "index.js",
+    "repository": {
+        "url": "https://github.com/LittleWhole/deciduous"
+    },
+    "license": "MIT",
+    "keywords": [
+        "library",
+        "utils",
+        "utility",
+        "functions",
+        "math",
+        "arrays",
+        "strings",
+        "numbers",
+        "objects",
+        "custom"
+    ]
+}
